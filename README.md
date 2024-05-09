@@ -20,6 +20,12 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+
+```
+NAME : VARSHINI S A
+REGISTER NUMBER : 212222100059
+```
+
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
